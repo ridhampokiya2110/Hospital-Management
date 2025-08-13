@@ -18,10 +18,3 @@ Connectivity: JDBC (Java Database Connectivity)
 ⚙️ Setup and Configuration
 To run this project, you need to set up the MySQL database and configure the connection.
 
-Prerequisites
-Java Development Kit (JDK) 8 or higher.
-
-MySQL Server.
-MySQL Connector/J (the JDBC driver .jar file).
-1. Database Setup
-First, connect to your MySQL server and run the following SQL commands to create the database and required tables. 
